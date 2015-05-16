@@ -1,0 +1,9 @@
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\bin\Debug\CalculateYearlyCostOfStudent.exe.config
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\bin\Debug\CalculateYearlyCostOfStudent.exe
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\bin\Debug\CalculateYearlyCostOfStudent.pdb
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\obj\Debug\CalculateYearlyCostOfStudent.csprojResolveAssemblyReference.cache
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\obj\Debug\CalculateYearlyCostOfStudent.Form1.resources
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\obj\Debug\CalculateYearlyCostOfStudent.Properties.Resources.resources
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\obj\Debug\CalculateYearlyCostOfStudent.csproj.GenerateResource.Cache
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\obj\Debug\CalculateYearlyCostOfStudent.exe
+D:\Milan\Day_6\CalculateYearlyCostOfStudent\obj\Debug\CalculateYearlyCostOfStudent.pdb
